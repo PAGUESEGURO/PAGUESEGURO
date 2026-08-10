@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Wesley+de+Carvalho!+👋;Freelancer+·+Dev+Web;Next.js+%7C+Vercel+%7C+Supabase" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=200&section=header&text=Wesley%20de%20Carvalho&fontSize=40&fontColor=ffffff&subtext=Desenvolvedor%20Freelancer%20·%20Next.js%20%7C%20Vercel%20%7C%20Supabase&subFontSize=18&subTextY=140" width="100%" />
 
 <br/>
 
-<p>
+<p align="center">
   <a href="https://fincontrolx.com.br">
     <img src="https://img.shields.io/badge/🌐 Portfólio-fincontrolx.com.br-0EA5E9?style=for-the-badge" />
   </a>
   &nbsp;
   <a href="https://wa.me/5511999397997">
-    <img src="https://img.shields.io/badge/WhatsApp-Contato-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WhatsApp-11_99939--7997-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/wesleyccs">
-    <img src="https://img.shields.io/badge/LinkedIn-Wesley_de_Carvalho-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-wesleyccs-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
   <a href="mailto:wesleyccs24@gmail.com">
@@ -28,12 +28,12 @@
 
 ## 🚀 Sobre Mim
 
-Sou desenvolvedor freelancer especializado em **criar produtos web modernos e performáticos** para empreendedores, marcas e negócios. Trabalho com o stack mais atual do mercado — **Next.js + Vercel + Supabase** — entregando soluções que realmente funcionam e impressionam.
+Sou desenvolvedor freelancer especializado em **criar produtos web modernos e performáticos** para empreendedores, marcas e negócios. Trabalho com a stack mais atual do mercado — **Next.js + Vercel + Supabase** — entregando soluções que realmente funcionam e impressionam.
 
 - 🔭 Atualmente trabalhando em projetos para clientes reais
 - 📍 Porto Feliz, SP — Brasil
-- 💼 Aberto para novos projetos freelance
-- ⚡ Stack favorito: **Next.js · TypeScript · Tailwind CSS · Supabase**
+- 💼 Aberto para novos projetos e parcerias freelance
+- ⚡ Stack favorita: **Next.js · TypeScript · Tailwind CSS · Supabase · Firebase**
 
 ---
 
@@ -41,7 +41,16 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 <div align="center">
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -64,19 +73,19 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Gráfico de Atividade no GitHub
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=PAGUESEGURO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=38BDF8&icon_color=38BDF8" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAGUESEGURO&layout=compact&theme=tokyonight&hide_border=true&title_color=38BDF8" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PAGUESEGURO&theme=react-dark&bg_color=0D1117&hide_border=true&color=38BDF8&line=0EA5E9" width="100%" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PAGUESEGURO&theme=tokyonight&hide_border=true&ring=38BDF8&fire=F97316&currStreakLabel=38BDF8)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PAGUESEGURO&theme=tokyonight" />
 
 </div>
 
@@ -91,15 +100,15 @@ Se você precisa de um **site profissional, landing page, app web ou sistema per
 <br/>
 
 <a href="https://wa.me/5511999397997">
-  <img src="https://img.shields.io/badge/💬 Chamar no WhatsApp-25D366?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/💬 Chamar no WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:wesleyccs24@gmail.com">
-  <img src="https://img.shields.io/badge/📧 Enviar Email-EA4335?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/📧 Enviar Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/wesleyccs">
-  <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
 </a>
 
 <br/><br/>
