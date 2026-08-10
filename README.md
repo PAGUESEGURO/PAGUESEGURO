@@ -63,13 +63,13 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 | Projeto | Descrição | Link |
 |:---:|:---|:---:|
 | 💰 **FinControlX** | App de controle financeiro com domínio próprio | [fincontrolx.com.br](https://fincontrolx.com.br) |
-| 🎓 **Teacher Letícia Pro** | Site profissional para educadora | [teacher-leticia-pro.vercel.app](https://teacher-leticia-pro.vercel.app) |
-| 💜 **Lidiane Miranda** | Presença digital profissional | [lidiane-miranda.vercel.app](https://lidiane-miranda.vercel.app) |
-| ✈️ **Passagens Baratas** | Plataforma de comparação de passagens | [ver projeto](https://passagens-baratas-phi.vercel.app) |
-| 🏋️ **Zakan Fit** | Plataforma fitness | [zakan-fit.vercel.app](https://zakan-fit.vercel.app) |
-| 📣 **Viral** | Plataforma de conteúdo | [ver projeto](https://viral-woad-xl.vercel.app) |
-| 💼 **Estágio Pro** | Plataforma profissional | [estaglo-pro.vercel.app](https://estaglo-pro.vercel.app) |
-| 🍫 **Chocolamor** | E-commerce de chocolates artesanais | [chocolamor.vercel.app](https://chocolamor.vercel.app) |
+| 🎓 **Teacher Letícia Pro** | Site profissional para educadora | [teacher-leticia-pro](https://teacher-leticia-pro.vercel.app) |
+| 💜 **Lidiane Miranda** | Presença digital profissional | [lidiane-miranda](https://lidiane-miranda.vercel.app) |
+| ✈️ **Passagens Baratas** | Plataforma de comparação de passagens | [passagens-baratas](https://passagens-baratas-phi.vercel.app) |
+| 🏋️ **Zakan Fit** | Plataforma fitness | [zakan-fit](https://zakan-fit.vercel.app) |
+| 📣 **Viral** | Plataforma de conteúdo | [viral](https://viral-woad-xl.vercel.app) |
+| 💼 **Estágio Pro** | Plataforma profissional | [estaglo-pro](https://estaglo-pro.vercel.app) |
+| 🍫 **Chocolamor** | E-commerce de chocolates artesanais | [chocolamor](https://chocolamor.vercel.app) |
 
 ---
 
@@ -100,15 +100,15 @@ Se você precisa de um **site profissional, landing page, app web ou sistema per
 <br/>
 
 <a href="https://wa.me/5511999397997">
-  <img src="https://img.shields.io/badge/💬 Chamar no WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/💬 Chamar no WhatsApp-25D366?style=for-the-badge&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:wesleyccs24@gmail.com">
-  <img src="https://img.shields.io/badge/📧 Enviar Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/📧 Enviar Email-EA4335?style=for-the-badge&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/wesleyccs">
-  <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="40" />
 </a>
 
 <br/><br/>
