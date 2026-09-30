@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/header.svg" alt="Wesley de Carvalho — Full Stack Developer" width="880"/>
+﻿<p align="center">
+  <img src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/header.svg" alt="Wesley de Carvalho â€” Full Stack Developer" width="880"/>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/now.svg" alt="Status" width="880"/>
-</p>
 
-<p align="center">
-  <a href="https://fincontrolx.com.br">
-    <img src="https://img.shields.io/badge/🌐_Portfólio-fincontrolx.com.br-0EA5E9?style=flat-square" height="26"/>
+    <img src="https://img.shields.io/badge/ðŸŒ_PortfÃ³lio-fincontrolx.com.br-0EA5E9?style=flat-square" height="26"/>
   </a>
   &nbsp;
   <a href="https://wa.me/5511999397997">
@@ -25,19 +22,19 @@
 
 ---
 
-## 🚀 Sobre Mim
+## ðŸš€ Sobre Mim
 
-Sou desenvolvedor freelancer especializado em **criar produtos web modernos e performáticos** para empreendedores, marcas e negócios. Trabalho com a stack mais atual do mercado — **Next.js + Vercel + Supabase** — entregando soluções que realmente funcionam e impressionam.
+Sou desenvolvedor freelancer especializado em **criar produtos web modernos e performÃ¡ticos** para empreendedores, marcas e negÃ³cios. Trabalho com a stack mais atual do mercado â€” **Next.js + Vercel + Supabase** â€” entregando soluÃ§Ãµes que realmente funcionam e impressionam.
 
-- 🔭 Atualmente trabalhando em projetos para clientes reais
-- 📍 Porto Feliz, SP — Brasil
-- 💼 Aberto para novos projetos e parcerias freelance
-- ⚡ Stack favorita: **Next.js · TypeScript · Tailwind CSS · Supabase · Firebase**
-- 💡 Foco em: **Performance · UX · Conversão · Resultados reais**
+- ðŸ”­ Atualmente trabalhando em projetos para clientes reais
+- ðŸ“ Porto Feliz, SP â€” Brasil
+- ðŸ’¼ Aberto para novos projetos e parcerias freelance
+- âš¡ Stack favorita: **Next.js Â· TypeScript Â· Tailwind CSS Â· Supabase Â· Firebase**
+- ðŸ’¡ Foco em: **Performance Â· UX Â· ConversÃ£o Â· Resultados reais**
 
 ---
 
-## 🛠️ Stack Tecnológico
+## ðŸ› ï¸ Stack TecnolÃ³gico
 
 <div align="center">
 
@@ -60,7 +57,7 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 ---
 
-## 📚 Atualmente Aprendendo
+## ðŸ“š Atualmente Aprendendo
 
 <div align="center">
 
@@ -74,27 +71,27 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 ---
 
-## 🌐 Projetos em Produção
+## ðŸŒ Projetos em ProduÃ§Ã£o
 
 > Projetos reais, clientes reais, resultados reais.
 
-| Projeto | Descrição | Stack | Link |
+| Projeto | DescriÃ§Ã£o | Stack | Link |
 |:---:|:---|:---:|:---:|
-| 💰 **FinControlX** | App de controle financeiro com domínio próprio | Next.js · Supabase | [FinControlX](https://fincontrolx.com.br) |
-| 🎓 **Teacher Letícia Pro** | Site profissional para educadora | Next.js · Vercel | [Teacher Letícia Pro](https://teacherleticia.fincontrolx.com.br) |
-| 💜 **Lidiane Miranda** | Presença digital profissional | Next.js · Tailwind | [Lidiane Miranda](https://www.lidianemiranda.com.br) |
-| ✈️ **Passagens Baratas** | Plataforma de comparação de passagens | Next.js · Firebase | [Passagens Baratas](https://passagens.fincontrolx.com.br) |
-| 🏋️ **Zakan Fit** | Plataforma fitness | Next.js · Supabase | [Zakan Fit](https://zakanfit.fincontrolx.com.br) |
-| 📣 **Viral** | Plataforma de conteúdo | Next.js · Vercel | [Viral](https://viral.fincontrolx.com.br) |
-| 💼 **Estágio Pro** | Plataforma profissional | Next.js · Tailwind | [Estágio Pro](https://estagiopro.fincontrolx.com.br) |
-| 🍫 **Chocolamor** | E-commerce de chocolates artesanais | Next.js · Supabase | [Chocolamor](https://chocolamor.fincontrolx.com.br) |
-| 🖨️ **PrintForge 3D** | Plataforma de impressão 3D | Next.js · Vercel | [PrintForge 3D](https://print3d.fincontrolx.com.br) |
-| 🎧 **Suporte Ajuda** | Plataforma de suporte com IA | Next.js · Supabase | [Suporte Ajuda](https://suporteajuda.fincontrolx.com.br) |
-| ⚡ **RANKUPOFICIAL** | Loja e ecossistema oficial de produtos | Next.js · Supabase | [RANKUPOFICIAL](https://loja.fincontrolx.com.br/) |
+| ðŸ’° **FinControlX** | App de controle financeiro com domÃ­nio prÃ³prio | Next.js Â· Supabase | [FinControlX](https://fincontrolx.com.br) |
+| ðŸŽ“ **Teacher LetÃ­cia Pro** | Site profissional para educadora | Next.js Â· Vercel | [Teacher LetÃ­cia Pro](https://teacherleticia.fincontrolx.com.br) |
+| ðŸ’œ **Lidiane Miranda** | PresenÃ§a digital profissional | Next.js Â· Tailwind | [Lidiane Miranda](https://www.lidianemiranda.com.br) |
+| âœˆï¸ **Passagens Baratas** | Plataforma de comparaÃ§Ã£o de passagens | Next.js Â· Firebase | [Passagens Baratas](https://passagens.fincontrolx.com.br) |
+| ðŸ‹ï¸ **Zakan Fit** | Plataforma fitness | Next.js Â· Supabase | [Zakan Fit](https://zakanfit.fincontrolx.com.br) |
+| ðŸ“£ **Viral** | Plataforma de conteÃºdo | Next.js Â· Vercel | [Viral](https://viral.fincontrolx.com.br) |
+| ðŸ’¼ **EstÃ¡gio Pro** | Plataforma profissional | Next.js Â· Tailwind | [EstÃ¡gio Pro](https://estagiopro.fincontrolx.com.br) |
+| ðŸ« **Chocolamor** | E-commerce de chocolates artesanais | Next.js Â· Supabase | [Chocolamor](https://chocolamor.fincontrolx.com.br) |
+| ðŸ–¨ï¸ **PrintForge 3D** | Plataforma de impressÃ£o 3D | Next.js Â· Vercel | [PrintForge 3D](https://print3d.fincontrolx.com.br) |
+| ðŸŽ§ **Suporte Ajuda** | Plataforma de suporte com IA | Next.js Â· Supabase | [Suporte Ajuda](https://suporteajuda.fincontrolx.com.br) |
+| âš¡ **RANKUPOFICIAL** | Loja e ecossistema oficial de produtos | Next.js Â· Supabase | [RANKUPOFICIAL](https://loja.fincontrolx.com.br/) |
 
 ---
 
-## 📊 Atividade & Estatísticas
+## ðŸ“Š Atividade & EstatÃ­sticas
 
 <p align="center">
   <img height="135" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=PAGUESEGURO&accent=0ea5e9&cell=square&hide_border=true"/>
@@ -108,28 +105,28 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 ---
 
-## 💼 Vamos Trabalhar Juntos?
+## ðŸ’¼ Vamos Trabalhar Juntos?
 
-Se você precisa de um **site profissional, landing page, app web ou sistema personalizado**, vamos conversar!
+Se vocÃª precisa de um **site profissional, landing page, app web ou sistema personalizado**, vamos conversar!
 
 <div align="center">
 
 <br/>
 
 <a href="https://wa.me/5511999397997">
-  <img src="https://img.shields.io/badge/💬 Chamar no WhatsApp-25D366?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/ðŸ’¬ Chamar no WhatsApp-25D366?style=for-the-badge&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:wesleyccs24@gmail.com">
-  <img src="https://img.shields.io/badge/📧 Enviar Email-EA4335?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/ðŸ“§ Enviar Email-EA4335?style=for-the-badge&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/wesleyccs">
-  <img src="https://img.shields.io/badge/🔗 LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/ðŸ”— LinkedIn-0A66C2?style=for-the-badge&logoColor=white" height="40" />
 </a>
 &nbsp;&nbsp;
 <a href="https://fincontrolx.com.br">
-  <img src="https://img.shields.io/badge/🌐 Portfólio-0EA5E9?style=for-the-badge&logoColor=white" height="40" />
+  <img src="https://img.shields.io/badge/ðŸŒ PortfÃ³lio-0EA5E9?style=for-the-badge&logoColor=white" height="40" />
 </a>
 
 </div>
@@ -140,6 +137,7 @@ Se você precisa de um **site profissional, landing page, app web ou sistema per
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" width="100%" />
 
-<sub>Feito com ❤️ por <strong>Wesley de Carvalho</strong> · Porto Feliz, SP · <a href="mailto:wesleyccs24@gmail.com">wesleyccs24@gmail.com</a></sub>
+<sub>Feito com â¤ï¸ por <strong>Wesley de Carvalho</strong> Â· Porto Feliz, SP Â· <a href="mailto:wesleyccs24@gmail.com">wesleyccs24@gmail.com</a></sub>
 
 </div>
+
