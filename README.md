@@ -106,10 +106,6 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
   <img width="880" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=PAGUESEGURO&accent=0ea5e9&cell=square&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAGUESEGURO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
 ## 💼 Vamos Trabalhar Juntos?
