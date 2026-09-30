@@ -1,12 +1,9 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Wesley%20de%20Carvalho&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Freelancer%20·%20Next.js%20%7C%20Vercel%20%7C%20Supabase&descSize=18&descAlignY=60&descAlign=50" width="100%" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=⚡+Full+Stack+Developer+Freelancer;🚀+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;💾+Supabase+%7C+Firebase+%7C+Vercel;🌐+Transformando+ideias+em+produtos+digitais)](https://git.io/typing-svg)
-
-<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/header.svg" alt="Wesley de Carvalho — Full Stack Developer" width="880"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/now.svg" alt="Status" width="880"/>
+</p>
 
 <p align="center">
   <a href="https://fincontrolx.com.br">
@@ -26,9 +23,9 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=PAGUESEGURO&color=0EA5E9&style=for-the-badge&label=Visitas+ao+Perfil)
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PAGUESEGURO&color=0EA5E9&style=for-the-badge&label=Visitas+ao+Perfil" />
+</p>
 
 ---
 
@@ -101,24 +98,21 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 ---
 
-## 🔥 GitHub Streak
+## 📊 Atividade & Estatísticas
 
-<div align="center">
+<p align="center">
+  <img height="135" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=PAGUESEGURO&accent=0ea5e9&cell=square&hide_border=true"/>
+  &nbsp;
+  <img height="135" src="https://streak-stats.demolab.com?user=PAGUESEGURO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PAGUESEGURO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
+<p align="center">
+  <img width="880" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=PAGUESEGURO&accent=0ea5e9&cell=square&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PAGUESEGURO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAGUESEGURO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+<p align="center">
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAGUESEGURO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
