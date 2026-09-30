@@ -4,24 +4,65 @@
       <stop offset="0%" stop-color="#0d1117"/>
       <stop offset="100%" stop-color="#161b22"/>
     </linearGradient>
+    <style>
+      @keyframes rot1 {
+        0%, 28% { opacity: 1; visibility: visible; }
+        33.33%, 95% { opacity: 0; visibility: hidden; }
+        100% { opacity: 1; visibility: visible; }
+      }
+      @keyframes rot2 {
+        0%, 30% { opacity: 0; visibility: hidden; }
+        33.33%, 61% { opacity: 1; visibility: visible; }
+        66.66%, 100% { opacity: 0; visibility: hidden; }
+      }
+      @keyframes rot3 {
+        0%, 63% { opacity: 0; visibility: hidden; }
+        66.66%, 95% { opacity: 1; visibility: visible; }
+        100% { opacity: 0; visibility: hidden; }
+      }
+      @keyframes blink {
+        0%, 49% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+      .prompt {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 14px;
+        fill: #0EA5E9;
+        opacity: 0.85;
+      }
+      .t1 {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 13px;
+        fill: #c9d1d9;
+        animation: rot1 12s infinite;
+      }
+      .t2 {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 13px;
+        fill: #c9d1d9;
+        opacity: 0;
+        visibility: hidden;
+        animation: rot2 12s infinite;
+      }
+      .t3 {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 13px;
+        fill: #c9d1d9;
+        opacity: 0;
+        visibility: hidden;
+        animation: rot3 12s infinite;
+      }
+      .cursor {
+        animation: blink 1.1s infinite;
+      }
+    </style>
   </defs>
   <rect width="880" height="44" fill="url(#bg1)"/>
   <rect x="0" y="0" width="880" height="1" fill="#21262d"/>
   <rect x="0" y="43" width="880" height="1" fill="#21262d"/>
-  <text x="18" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#0EA5E9" opacity="0.85">&gt;</text>
-  <text x="36" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
-    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
-    Transformando ideias complexas em produtos digitais de alta performance
-  </text>
-  <text x="36" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.57;0.66;1" dur="12s" repeatCount="indefinite"/>
-    Stack moderna: Next.js 15, React 19, Supabase &amp; arquitetura serverless
-  </text>
-  <text x="36" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.67;0.90;1" dur="12s" repeatCount="indefinite"/>
-    Foco obsessivo em UX refinada, velocidade extrema e resultados reais
-  </text>
-  <rect x="852" y="15" width="8" height="16" fill="#0EA5E9" rx="1">
-    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;1" dur="1.05s" repeatCount="indefinite"/>
-  </rect>
+  <text x="18" y="28" class="prompt">&gt;</text>
+  <text x="36" y="28" class="t1">Transformando ideias complexas em produtos digitais de alta performance</text>
+  <text x="36" y="28" class="t2">Stack moderna: Next.js 15, React 19, Supabase &amp; arquitetura serverless</text>
+  <text x="36" y="28" class="t3">Foco obsessivo em UX refinada, velocidade extrema e resultados reais</text>
+  <rect x="852" y="15" width="8" height="16" fill="#0EA5E9" rx="1" class="cursor"/>
 </svg>
