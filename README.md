@@ -87,17 +87,17 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 | Projeto | Descrição | Stack | Link |
 |:---:|:---|:---:|:---:|
-| 💰 **FinControlX** | App de controle financeiro com domínio próprio | Next.js · Supabase | [fincontrolx.com.br](https://fincontrolx.com.br) |
-| 🎓 **Teacher Letícia Pro** | Site profissional para educadora | Next.js · Vercel | [teacherleticia.fincontrolx.com.br](https://teacherleticia.fincontrolx.com.br) |
-| 💜 **Lidiane Miranda** | Presença digital profissional | Next.js · Tailwind | [lidianemiranda.com.br](https://www.lidianemiranda.com.br) |
-| ✈️ **Passagens Baratas** | Plataforma de comparação de passagens | Next.js · Firebase | [passagens.fincontrolx.com.br](https://passagens.fincontrolx.com.br) |
-| 🏋️ **Zakan Fit** | Plataforma fitness | Next.js · Supabase | [zakanfit.fincontrolx.com.br](https://zakanfit.fincontrolx.com.br) |
-| 📣 **Viral** | Plataforma de conteúdo | Next.js · Vercel | [viral.fincontrolx.com.br](https://viral.fincontrolx.com.br) |
-| 💼 **Estágio Pro** | Plataforma profissional | Next.js · Tailwind | [estagiopro.fincontrolx.com.br](https://estagiopro.fincontrolx.com.br) |
-| 🍫 **Chocolamor** | E-commerce de chocolates artesanais | Next.js · Supabase | [chocolamor.fincontrolx.com.br](https://chocolamor.fincontrolx.com.br) |
-| 🖨️ **PrintForge 3D** | Plataforma de impressão 3D | Next.js · Vercel | [print3d.fincontrolx.com.br](https://print3d.fincontrolx.com.br) |
-| 🎧 **Suporte Ajuda** | Plataforma de suporte com IA | Next.js · Supabase | [suporteajuda.fincontrolx.com.br](https://suporteajuda.fincontrolx.com.br) |
-| 🛒 **FinControlX Loja** | Loja integrada ao ecossistema FinControlX | Next.js · Supabase | [loja.fincontrolx.com.br](https://loja.fincontrolx.com.br) |
+| 💰 **FinControlX** | App de controle financeiro com domínio próprio | Next.js · Supabase | [FinControlX](https://fincontrolx.com.br) |
+| 🎓 **Teacher Letícia Pro** | Site profissional para educadora | Next.js · Vercel | [Teacher Letícia Pro](https://teacherleticia.fincontrolx.com.br) |
+| 💜 **Lidiane Miranda** | Presença digital profissional | Next.js · Tailwind | [Lidiane Miranda](https://www.lidianemiranda.com.br) |
+| ✈️ **Passagens Baratas** | Plataforma de comparação de passagens | Next.js · Firebase | [Passagens Baratas](https://passagens.fincontrolx.com.br) |
+| 🏋️ **Zakan Fit** | Plataforma fitness | Next.js · Supabase | [Zakan Fit](https://zakanfit.fincontrolx.com.br) |
+| 📣 **Viral** | Plataforma de conteúdo | Next.js · Vercel | [Viral](https://viral.fincontrolx.com.br) |
+| 💼 **Estágio Pro** | Plataforma profissional | Next.js · Tailwind | [Estágio Pro](https://estagiopro.fincontrolx.com.br) |
+| 🍫 **Chocolamor** | E-commerce de chocolates artesanais | Next.js · Supabase | [Chocolamor](https://chocolamor.fincontrolx.com.br) |
+| 🖨️ **PrintForge 3D** | Plataforma de impressão 3D | Next.js · Vercel | [PrintForge 3D](https://print3d.fincontrolx.com.br) |
+| 🎧 **Suporte Ajuda** | Plataforma de suporte com IA | Next.js · Supabase | [Suporte Ajuda](https://suporteajuda.fincontrolx.com.br) |
+| ⚡ **RANKUPOFICIAL** | Loja e ecossistema oficial de produtos | Next.js · Supabase | [RANKUPOFICIAL](https://loja.fincontrolx.com.br/) |
 
 ---
 
