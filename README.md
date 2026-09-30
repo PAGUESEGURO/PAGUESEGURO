@@ -101,16 +101,6 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=PAGUESEGURO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🔥 GitHub Streak
 
 <div align="center">
@@ -127,61 +117,6 @@ Sou desenvolvedor freelancer especializado em **criar produtos web modernos e pe
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PAGUESEGURO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PAGUESEGURO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=PAGUESEGURO&theme=tokyonight&hide_border=true&layout=compact)](https://wakatime.com/@PAGUESEGURO)
-
-> ⚠️ *Necessário configurar a extensão WakaTime no VS Code com a sua conta para exibir dados reais.*
-
-</div>
-
----
-
-## 📈 Gráfico de Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PAGUESEGURO&theme=react-dark&bg_color=0D1117&hide_border=true&color=38BDF8&line=0EA5E9&point=ffffff" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PAGUESEGURO&theme=tokyonight" width="100%" />
-
-</div>
-
----
-
-## 🐍 Minha Contribuição
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
----
-
-## 📌 Repositórios em Destaque
-
-<div align="center">
-
-[![FinControlX](https://github-readme-stats.vercel.app/api/pin/?username=PAGUESEGURO&repo=fincontrolx&theme=tokyonight&hide_border=true)](https://github.com/PAGUESEGURO/fincontrolx)
-[![Teacher Letícia](https://github-readme-stats.vercel.app/api/pin/?username=PAGUESEGURO&repo=teacher-leticia-pro&theme=tokyonight&hide_border=true)](https://github.com/PAGUESEGURO/teacher-leticia-pro)
 
 </div>
 
