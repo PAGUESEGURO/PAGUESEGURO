@@ -36,6 +36,7 @@
 | Frente | O que está no ar e em evolução |
 |:---:|:---|
 | 🛡️ | **Lançado:** [**CyberSecurity Enterprise**](https://cyber-security.fincontrolx.com.br/) — plataforma de Segurança da Informação & Continuidade B2B com **Scanner OSINT via Cloudflare DoH (`SPF` · `DMARC` · `MX` · `DNSSEC`)**, Checklist Industrial, Simulador Financeiro, Governança LGPD (Lei 13.709/2018) e Relatório A4 em 1 página para Diretoria |
+| 📐 | **Lançado:** [**Prof. Wesley — Matemática**](https://prof-matematica.fincontrolx.com.br/) — plataforma EdTech de aulas particulares com **Mapa de Diagnóstico interativo**, triagem contextual para WhatsApp, captura de leads **LGPD** no Supabase com **Keep-Alive**, SEO completo (`Schema.org`, `IndexNow`, `llms.txt`) e [**código aberto**](https://github.com/PAGUESEGURO/Prof-Matematica) |
 | 💰 | **SaaS & FinTech:** evolução contínua do [**FinControlX**](https://fincontrolx.com.br) com Next.js, TypeScript, Supabase, TanStack Query, Zustand, Recharts, Sentry e PostHog |
 | 🧠 | **IA & Creative OS:** expansão do [**Suporte Ajuda**](https://suporteajuda.fincontrolx.com.br/) integrado a motores locais (**PhotoCraft PSD**, **FilmCraft / Viral Cuts 9:16**, **Whisper GPU**, **Radar CNPJ & LeadFinder B2B**) |
 | 🖨️ | **WebGL & 3D:** [**PrintForge 3D**](https://print3d.fincontrolx.com.br) com visualização `Three.js`, remoção de fundo com IA e pipeline `Express + Gradio` |
@@ -54,7 +55,7 @@ Desenvolvedor **Full Stack**, consultor de **Segurança da Informação (CNAE 62
 
 ---
 
-## 🌐 Ecossistema em Produção (12 Plataformas no Ar)
+## 🌐 Ecossistema em Produção (13 Plataformas no Ar)
 
 ### 🛡️ Cibersegurança, SaaS, IA & 3D
 
@@ -74,6 +75,7 @@ Desenvolvedor **Full Stack**, consultor de **Segurança da Informação (CNAE 62
 | 💼 **Estágio Pro** | Ecossistema de carreira, vagas, conteúdo editorial e fluxo transacional automatizado | `Next.js · Supabase SSR · Framer Motion · Resend · Zod` | [Acessar](https://estagiopro.fincontrolx.com.br) |
 | ✈️ **Passagens Baratas** | Buscador e comparador inteligente de passagens aéreas com revalidação rápida em cache | `Next.js · SWR · Zod · APIs de Voos` | [Acessar](https://passagens.fincontrolx.com.br) |
 | 🎓 **Teacher Letícia Pro** | Portal educacional com artigos `MDX`, área do aluno e pagamentos integrados | `Next.js · MDX · Supabase · Mercado Pago · Resend` | [Acessar](https://teacherleticia.fincontrolx.com.br) |
+| 📐 **Prof. Wesley** | Plataforma de aulas particulares de matemática com Mapa de Diagnóstico interativo, triagem para WhatsApp, LGPD, Supabase Keep-Alive e SEO/IndexNow para IAs e buscadores | `HTML5 · CSS3 · JS · Supabase · Vercel · Schema.org` | [Acessar](https://prof-matematica.fincontrolx.com.br/) · [Repo](https://github.com/PAGUESEGURO/Prof-Matematica) |
 | 🍫 **Chocolamor** | E-commerce de chocolates artesanais com vitrine rápida, testes automatizados e painel administrativo | `React · Vite · TypeScript · shadcn/ui · Supabase · Vitest · Playwright` | [Acessar](https://chocolamor.fincontrolx.com.br) |
 | 👜 **Lidiane Miranda** | Presença digital institucional focada em marca e conversão de clientes | `HTML5 · CSS3 · JS · Supabase · Vercel` | [Acessar](https://www.lidianemiranda.com.br) |
 | ⚡ **RANKUPOFICIAL** | Loja e ecossistema oficial integrado a infraestrutura de jogos e alta concorrência | `Next.js · Supabase · Velocity Proxy` | [Acessar](https://loja.fincontrolx.com.br/) |

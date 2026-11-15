@@ -25,7 +25,7 @@
 
   <!-- Metrics columns -->
   <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
-    <text x="96" y="84" fill="#38bdf8" font-size="23" font-weight="800">12+</text>
+    <text x="96" y="84" fill="#38bdf8" font-size="23" font-weight="800">13+</text>
     <text x="96" y="103" fill="#a9b1d6" font-size="11" font-weight="600">Plataformas no Ar</text>
 
     <line x1="170" y1="62" x2="170" y2="108" stroke="#292e42" stroke-width="1"/>
