@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 195" width="880" height="195">
+  <defs>
+    <linearGradient id="actBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a1b27"/>
+      <stop offset="100%" stop-color="#111622"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <linearGradient id="areaGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0ea5e9" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="880" height="195" rx="6" fill="url(#actBg)" stroke="#292e42" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="28" y="34" fill="#70a5fd" font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="0.4">ATIVIDADE DE ENGENHARIA &amp; TELEMETRIA DE PRODUÇÃO (2026)</text>
+  <g transform="translate(612, 19)">
+    <rect x="0" y="0" width="240" height="22" rx="11" fill="#132a2e" stroke="#1f4d52" stroke-width="1"/>
+    <circle cx="13" cy="11" r="3.4" fill="#2dd4bf">
+      <animate attributeName="opacity" values="1;0.35;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="14.5" fill="#38bdae" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" font-weight="700">12 REPOSITÓRIOS &amp; SISTEMAS ATIVOS</text>
+  </g>
+
+  <!-- Subtle Horizontal Grid -->
+  <g stroke="#292e42" stroke-width="1" stroke-dasharray="4 4">
+    <line x1="36" y1="62" x2="844" y2="62"/>
+    <line x1="36" y1="98" x2="844" y2="98"/>
+    <line x1="36" y1="134" x2="844" y2="134"/>
+  </g>
+
+  <!-- Area + Curve -->
+  <path d="M 48 130 C 120 128, 175 112, 235 116 C 305 120, 345 94, 415 96 C 485 98, 525 76, 595 82 C 660 88, 710 68, 770 64 C 802 62, 822 57, 836 56 L 836 142 L 48 142 Z" fill="url(#areaGrad)"/>
+  <path id="activityCurve" d="M 48 130 C 120 128, 175 112, 235 116 C 305 120, 345 94, 415 96 C 485 98, 525 76, 595 82 C 660 88, 710 68, 770 64 C 802 62, 822 57, 836 56" fill="none" stroke="url(#lineGrad)" stroke-width="2.6" stroke-linecap="round"/>
+
+  <!-- Milestone Nodes -->
+  <g>
+    <circle cx="48" cy="130" r="4" fill="#38bdf8" stroke="#1a1b27" stroke-width="2"/>
+    <circle cx="235" cy="116" r="4" fill="#38bdf8" stroke="#1a1b27" stroke-width="2"/>
+    <circle cx="415" cy="96" r="4.2" fill="#a78bfa" stroke="#1a1b27" stroke-width="2"/>
+    <circle cx="595" cy="82" r="4.5" fill="#0ea5e9" stroke="#1a1b27" stroke-width="2"/>
+    <circle cx="770" cy="64" r="4.8" fill="#2dd4bf" stroke="#1a1b27" stroke-width="2"/>
+    <circle cx="836" cy="56" r="5.5" fill="#10b981" stroke="#1a1b27" stroke-width="2"/>
+    <circle cx="836" cy="56" r="9" fill="none" stroke="#2dd4bf" stroke-width="1.5" opacity="0.7">
+      <animate attributeName="r" values="6;13;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.8;0;0.8" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Milestone Labels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5" fill="#94a3b8" text-anchor="middle">
+    <text x="64" y="158">Mar · Chocolamor</text>
+    <text x="235" y="158">Ago · PrintForge 3D</text>
+    <text x="415" y="158">Set · Viral Cuts Pro</text>
+    <text x="595" y="158">Out · Estágio / FinControlX</text>
+    <text x="790" y="158" fill="#5eead4" font-weight="700">Nov · CyberSecurity B2B</text>
+  </g>
+
+  <!-- Bottom Telemetry Strip -->
+  <line x1="28" y1="169" x2="852" y2="169" stroke="#292e42" stroke-width="1"/>
+  <text x="28" y="185" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">Infraestrutura ativa: Vercel Edge · Supabase · Upstash Redis · Cloudflare DoH · Whisper GPU · Schema.org</text>
+  <text x="852" y="185" text-anchor="end" fill="#38bdae" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.5">status: all_systems_operational</text>
+</svg>

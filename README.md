@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/header.svg" alt="Wesley de Carvalho — Full Stack, Cybersecurity & AI Engineering" width="880"/>
 </p>
 <p align="center">
@@ -138,13 +138,13 @@ Além das aplicações web em produção, mantenho motores e pipelines locais vo
 ## 📊 Atividade & Estatísticas no GitHub
 
 <p align="center">
-  <img height="135" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=PAGUESEGURO&accent=0ea5e9&cell=square&hide_border=true"/>
+  <img height="140" src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/stats.svg" alt="Stack & Ecosystem Overview"/>
   &nbsp;
-  <img height="135" src="https://streak-stats.demolab.com?user=PAGUESEGURO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
+  <img height="140" src="https://streak-stats.demolab.com?user=PAGUESEGURO&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="880" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=PAGUESEGURO&accent=0ea5e9&cell=square&hide_border=true"/>
+  <img width="880" src="https://raw.githubusercontent.com/PAGUESEGURO/PAGUESEGURO/main/assets/activity.svg" alt="Atividade de Engenharia e Telemetria de Produção"/>
 </p>
 
 ---
