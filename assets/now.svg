@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="44" viewBox="0 0 880 44">
   <defs>
     <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0d1117"/>
-      <stop offset="100%" stop-color="#161b22"/>
+      <stop offset="0%" stop-color="#070e1a"/>
+      <stop offset="100%" stop-color="#0d1524"/>
     </linearGradient>
     <style>
       @keyframes rot1 {
@@ -27,27 +27,23 @@
       .prompt {
         font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
         font-size: 14px;
-        fill: #0EA5E9;
-        opacity: 0.85;
+        fill: #2DD4BF;
+        opacity: 0.9;
+      }
+      .t1, .t2, .t3 {
+        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+        font-size: 12.8px;
+        fill: #cbd5e1;
       }
       .t1 {
-        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-        font-size: 13px;
-        fill: #c9d1d9;
         animation: rot1 12s infinite;
       }
       .t2 {
-        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-        font-size: 13px;
-        fill: #c9d1d9;
         opacity: 0;
         visibility: hidden;
         animation: rot2 12s infinite;
       }
       .t3 {
-        font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
-        font-size: 13px;
-        fill: #c9d1d9;
         opacity: 0;
         visibility: hidden;
         animation: rot3 12s infinite;
@@ -58,11 +54,11 @@
     </style>
   </defs>
   <rect width="880" height="44" fill="url(#bg1)"/>
-  <rect x="0" y="0" width="880" height="1" fill="#21262d"/>
-  <rect x="0" y="43" width="880" height="1" fill="#21262d"/>
-  <text x="18" y="28" class="prompt">&gt;</text>
-  <text x="36" y="28" class="t1">Transformando ideias complexas em produtos digitais de alta performance</text>
-  <text x="36" y="28" class="t2">Stack moderna: Next.js 15, React 19, Supabase &amp; arquitetura serverless</text>
-  <text x="36" y="28" class="t3">Foco obsessivo em UX refinada, velocidade extrema e resultados reais</text>
-  <rect x="852" y="15" width="8" height="16" fill="#0EA5E9" rx="1" class="cursor"/>
+  <rect x="0" y="0" width="880" height="1" fill="#1e293b"/>
+  <rect x="0" y="43" width="880" height="1" fill="#1e293b"/>
+  <text x="18" y="27" class="prompt">&gt;</text>
+  <text x="36" y="27" class="t1">Engenharia Full Stack, Cibersegurança B2B &amp; Automações com IA em escala nacional</text>
+  <text x="36" y="27" class="t2">Ecossistema em produção: CyberSecurity OSINT, FinControlX, Suporte Ajuda &amp; PrintForge 3D</text>
+  <text x="36" y="27" class="t3">Next.js · TypeScript · Supabase · Python · Three.js · TensorFlow.js · Cloudflare DoH</text>
+  <rect x="852" y="15" width="8" height="15" fill="#2DD4BF" rx="1" class="cursor"/>
 </svg>

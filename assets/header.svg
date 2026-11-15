@@ -1,12 +1,18 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 220" width="880" height="220">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="1" stop-color="#161b22"/>
+      <stop offset="0" stop-color="#070e1a"/>
+      <stop offset="0.55" stop-color="#0d1524"/>
+      <stop offset="1" stop-color="#111d30"/>
     </linearGradient>
     <linearGradient id="pipeGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#30363d"/>
-      <stop offset="1" stop-color="#21262d"/>
+      <stop offset="0" stop-color="#1e293b"/>
+      <stop offset="1" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="0.6" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#10B981"/>
     </linearGradient>
     <clipPath id="bannerClip">
       <rect width="880" height="220" rx="0"/>
@@ -15,88 +21,91 @@
 
   <rect width="880" height="220" fill="url(#bg)"/>
 
-  <!-- thin guide lines -->
-  <g stroke="#21262d" stroke-width="1">
-    <line x1="0" y1="24" x2="880" y2="24" opacity="0.7"/>
-    <line x1="0" y1="196" x2="880" y2="196" opacity="0.7"/>
-    <line x1="48" y1="0" x2="48" y2="220" opacity="0.4"/>
-    <line x1="560" y1="0" x2="560" y2="220" opacity="0.4"/>
+  <!-- guide lines -->
+  <g stroke="#1e293b" stroke-width="1">
+    <line x1="0" y1="24" x2="880" y2="24" opacity="0.8"/>
+    <line x1="0" y1="196" x2="880" y2="196" opacity="0.8"/>
+    <line x1="48" y1="0" x2="48" y2="220" opacity="0.5"/>
+    <line x1="556" y1="0" x2="556" y2="220" opacity="0.5"/>
   </g>
-  <g fill="#30363d" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">
-    <text x="14" y="20">main</text>
-    <text x="836" y="212" text-anchor="end">v2.4.0 · prod</text>
+  <g fill="#475569" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">
+    <text x="14" y="16">main</text>
+    <text x="544" y="16" text-anchor="end">BRASIL · PRODUÇÃO NACIONAL</text>
+    <text x="836" y="212" text-anchor="end">v3.0.0 · prod</text>
   </g>
 
-  <!-- left text block — more vertical breathing room -->
+  <!-- top status badge -->
+  <g transform="translate(64, 38)">
+    <rect x="0" y="0" width="232" height="20" rx="10" fill="#0f2938" stroke="#1e4d63" stroke-width="1"/>
+    <circle cx="13" cy="10" r="3.5" fill="#10B981">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="24" y="13.5" fill="#5eead4" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9.2" font-weight="600" letter-spacing="0.8">12+ PROJETOS EM PRODUÇÃO • BRASIL</text>
+  </g>
+
+  <!-- left identity block -->
   <g font-family="-apple-system, 'Segoe UI', Inter, Helvetica, Arial, sans-serif">
-    <text x="64" y="86" fill="#e6edf3" font-size="34" font-weight="600" letter-spacing="0.5">Wesley de Carvalho</text>
-    <text x="64" y="122" fill="#0EA5E9" font-size="14" font-weight="600" letter-spacing="3.5">FULL STACK DEVELOPER</text>
-    <text x="64" y="164" fill="#7d8590" font-size="11.5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" letter-spacing="1">Next.js · TypeScript · Supabase · Tailwind · Vercel</text>
+    <text x="64" y="96" fill="#f1f5f9" font-size="33" font-weight="700" letter-spacing="0.4">Wesley de Carvalho</text>
+    <text x="64" y="124" fill="#38bdf8" font-size="11.5" font-weight="700" letter-spacing="1.7">FULL STACK · CYBERSECURITY · AI ENGINEERING</text>
+    <text x="64" y="166" fill="#94a3b8" font-size="11" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" letter-spacing="0.4">Next.js · TypeScript · Supabase · Python · Cloud &amp; OSINT</text>
   </g>
-  <line x1="64" y1="136" x2="218" y2="136" stroke="#0EA5E9" stroke-width="1.5" opacity="0.9"/>
-  <line x1="222" y1="136" x2="236" y2="136" stroke="#38BDF8" stroke-width="1.5" opacity="0.7"/>
+  <line x1="64" y1="138" x2="292" y2="138" stroke="url(#accentLine)" stroke-width="2" opacity="0.95"/>
+  <line x1="298" y1="138" x2="318" y2="138" stroke="#2DD4BF" stroke-width="2" opacity="0.65"/>
 
-  <!-- right: pipeline animation -->
+  <!-- right: build & security pipeline animation -->
   <g clip-path="url(#bannerClip)">
-    <!-- pipe -->
-    <rect x="600" y="96" width="260" height="28" rx="14" fill="url(#pipeGrad)" stroke="#30363d" stroke-width="1"/>
-    <line x1="616" y1="110" x2="844" y2="110" stroke="#0EA5E9" stroke-width="1" opacity="0.25" stroke-dasharray="3 5"/>
+    <rect x="592" y="96" width="264" height="28" rx="14" fill="url(#pipeGrad)" stroke="#334155" stroke-width="1"/>
+    <line x1="608" y1="110" x2="840" y2="110" stroke="#0EA5E9" stroke-width="1" opacity="0.28" stroke-dasharray="3 5"/>
 
-    <!-- columnar ticks inside pipe -->
-    <g stroke="#3d444d" stroke-width="1">
-      <line x1="640" y1="100" x2="640" y2="120"/>
-      <line x1="672" y1="100" x2="672" y2="120"/>
-      <line x1="704" y1="100" x2="704" y2="120"/>
-      <line x1="736" y1="100" x2="736" y2="120"/>
-      <line x1="768" y1="100" x2="768" y2="120"/>
-      <line x1="800" y1="100" x2="800" y2="120"/>
-      <line x1="832" y1="100" x2="832" y2="120"/>
+    <g stroke="#334155" stroke-width="1">
+      <line x1="636" y1="100" x2="636" y2="120"/>
+      <line x1="668" y1="100" x2="668" y2="120"/>
+      <line x1="700" y1="100" x2="700" y2="120"/>
+      <line x1="732" y1="100" x2="732" y2="120"/>
+      <line x1="764" y1="100" x2="764" y2="120"/>
+      <line x1="796" y1="100" x2="796" y2="120"/>
+      <line x1="828" y1="100" x2="828" y2="120"/>
     </g>
 
-    <!-- drifting data nodes -->
     <g>
-      <rect x="0" y="104" width="12" height="12" rx="2" fill="#0EA5E9" opacity="0.9">
-        <animate attributeName="x" values="596;866" dur="7s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.12;0.85;1" dur="7s" repeatCount="indefinite"/>
+      <rect x="0" y="104" width="12" height="12" rx="2" fill="#0EA5E9" opacity="0.95">
+        <animate attributeName="x" values="588;862" dur="6.6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.12;0.85;1" dur="6.6s" repeatCount="indefinite"/>
       </rect>
-      <rect x="0" y="104" width="12" height="12" rx="2" fill="#38BDF8" opacity="0.8">
-        <animate attributeName="x" values="596;866" dur="7s" begin="-2.33s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0.8;0.8;0" keyTimes="0;0.12;0.85;1" dur="7s" begin="-2.33s" repeatCount="indefinite"/>
+      <rect x="0" y="104" width="12" height="12" rx="2" fill="#2DD4BF" opacity="0.88">
+        <animate attributeName="x" values="588;862" dur="6.6s" begin="-2.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.88;0.88;0" keyTimes="0;0.12;0.85;1" dur="6.6s" begin="-2.2s" repeatCount="indefinite"/>
       </rect>
-      <rect x="0" y="104" width="12" height="12" rx="2" fill="#c9d1d9" opacity="0.55">
-        <animate attributeName="x" values="596;866" dur="7s" begin="-4.66s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.12;0.85;1" dur="7s" begin="-4.66s" repeatCount="indefinite"/>
+      <rect x="0" y="104" width="12" height="12" rx="2" fill="#10B981" opacity="0.78">
+        <animate attributeName="x" values="588;862" dur="6.6s" begin="-4.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.78;0.78;0" keyTimes="0;0.12;0.85;1" dur="6.6s" begin="-4.4s" repeatCount="indefinite"/>
       </rect>
     </g>
 
-    <!-- stage labels -->
-    <g fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="1.5">
-      <text x="600" y="86">develop</text>
-      <text x="704" y="86">optimize</text>
-      <text x="822" y="86">ship</text>
+    <g fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9" letter-spacing="1.4">
+      <text x="592" y="84">build</text>
+      <text x="702" y="84">secure</text>
+      <text x="824" y="84">ship</text>
     </g>
-    <g stroke="#30363d" stroke-width="1">
-      <line x1="600" y1="90" x2="600" y2="96"/>
-      <line x1="704" y1="90" x2="704" y2="96"/>
-      <line x1="822" y1="90" x2="822" y2="96"/>
+    <g stroke="#334155" stroke-width="1">
+      <line x1="592" y1="88" x2="592" y2="96"/>
+      <line x1="702" y1="88" x2="702" y2="96"/>
+      <line x1="824" y1="88" x2="824" y2="96"/>
     </g>
 
-    <!-- progress bar under pipe -->
-    <rect x="600" y="144" width="260" height="3" rx="1.5" fill="#21262d"/>
-    <rect x="600" y="144" width="0" height="3" rx="1.5" fill="#0EA5E9" opacity="0.85">
-      <animate attributeName="width" values="0;260;260;0" keyTimes="0;0.8;0.92;1" dur="7s" repeatCount="indefinite"/>
+    <rect x="592" y="144" width="264" height="3" rx="1.5" fill="#1e293b"/>
+    <rect x="592" y="144" width="0" height="3" rx="1.5" fill="url(#accentLine)" opacity="0.9">
+      <animate attributeName="width" values="0;264;264;0" keyTimes="0;0.8;0.92;1" dur="6.6s" repeatCount="indefinite"/>
     </rect>
-    <g fill="#7d8590" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">
-      <text x="600" y="166">pipeline: production_deploy</text>
-      <text x="860" y="166" text-anchor="end" fill="#38BDF8">success</text>
+    <g fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="9">
+      <text x="592" y="166">pipeline: deploy · osint_verify</text>
+      <text x="856" y="166" text-anchor="end" fill="#2DD4BF">online</text>
     </g>
 
-    <!-- connector from text to pipe -->
-    <path d="M 520 110 H 596" stroke="#30363d" stroke-width="1" fill="none" stroke-dasharray="4 4"/>
+    <path d="M 508 110 H 588" stroke="#334155" stroke-width="1" fill="none" stroke-dasharray="4 4"/>
   </g>
 
-  <!-- blinking cursor bottom-right -->
-  <rect x="846" y="170" width="8" height="14" fill="#0EA5E9">
+  <rect x="846" y="172" width="8" height="14" fill="#2DD4BF">
     <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>
   </rect>
 </svg>
