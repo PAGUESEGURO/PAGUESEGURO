@@ -1,25 +1,46 @@
-﻿name: Generate Snake Animation
+name: Generate Snake Animation
+
+# ---------------------------------------------------------------------------
+# CORRECAO (15/11/2026): este workflow falhou 93 vezes seguidas.
+#
+# CAUSA RAIZ: o step crazy-max/ghaction-github-pages executa `git push` na
+# branch `output`, mas o GITHUB_TOKEN padrao do GitHub Actions nao tem
+# permissao de escrita no repositorio. Resultado no log:
+#   remote: Permission to PAGUESEGURO/PAGUESEGURO.git denied to github-actions[bot]
+#   fatal: unable to access ... The requested URL returned error: 403
+# Como o workflow roda a cada 12 horas, isso gerava 2 notificacoes de falha
+# por dia no GitHub.
+#
+# CORRECAO: `permissions: contents: write` no nivel do job. E o keep_files
+# para nao apagar conteudo ja publicado na branch output.
+# ---------------------------------------------------------------------------
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - name: Gerar SVG da contribuicao
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publicar no GitHub Pages (branch output)
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
